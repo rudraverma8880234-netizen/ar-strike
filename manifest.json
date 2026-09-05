@@ -1,0 +1,15 @@
+{
+  "name": "AR Strike",
+  "short_name": "AR Strike",
+  "description": "Camera-based AR aim trainer — real-time person lock, fire, health and ammo HUD.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0b0f0a",
+  "theme_color": "#0b0f0a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
